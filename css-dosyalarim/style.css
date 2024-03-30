@@ -1,0 +1,82 @@
+.resimSlider {
+    height: 800px;
+}
+
+.resimSlider2{
+    height: 450px;
+}
+
+body{
+    padding: 65px;
+}
+
+.hakkimizda{
+background-color: rgb(154, 151, 151);
+}
+
+.hakkimizda2{
+    color: white;
+}
+
+.neden{
+    margin: 50px 0 50px 0;
+    text-align: left;
+}
+
+.tutku{
+    margin: 50px 0 50px 0;
+    text-align: left;
+}
+
+.ekipCard>img:hover{
+    opacity: 0.7;
+}
+
+.eksayfa{
+    margin: 50px;
+    padding: 50px;
+}
+
+.grs{
+    color: white;
+    font-size: 34px;
+    background-color: #FFA500;
+    padding: 10px;
+}
+
+.galeri{
+    background-color: rgb(154, 151, 151);
+}
+
+.gpht{
+    height: 195px;
+    width: 350px;
+}
+.fgc1{
+    color: black;
+    font-size: large; 
+}
+.figure:hover{
+    opacity:0.4;
+}
+
+.subbuton{
+    margin-left: 10px;
+}
+
+.social-icons a{
+    color: #ffffff;
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: #181818;
+    border-radius: 50%;
+}
+
+.social-icons{
+    display: flex;
+}
+
+

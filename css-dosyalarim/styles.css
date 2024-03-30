@@ -1,0 +1,19 @@
+/* Ekstra stil özellikleri buraya ekleyebilirsiniz */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin: 20px;
+}
+
+/* Slider için ek stiller */
+.carousel-inner {
+    border-radius: 5px;
+}
+
+/* Satın Alma Bölümü için ek stiller */
+h2 {
+    color: #007bff;
+}
